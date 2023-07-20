@@ -5,7 +5,7 @@
 
 ### 以下の記述がなければ追加
 ``` ・"editor.formatOnSave": true ```
-### ⇨ファイルを保存する度にPrettierがはしるようにする。
+⇨ファイルを保存する度にPrettierがはしるようにする。
 
 ```
 "editor.codeActionOnSave": {
